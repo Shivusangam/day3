@@ -1,3 +1,4 @@
+
 let my_resume={
     "personal": {
       "name": "shivanand",
@@ -65,11 +66,15 @@ let my_resume={
   }
 
   console.log(my_resume)
+
+
+
   
-// {personal: {…}, work: Array(1), education: Array(1), skills: Array(1), languages: Array(2)}
+
+//  OUTPUT
+//  {personal: {…}, education: Array(1), skills: Array(1), languages: Array(4)}
 // education: [{…}]
-// languages: (2) [{…}, {…}]
-// personal: {name: 'shruti', label: 'Software Engineer', email: 'shrumanniker@gmail.com', phone: '8951211056', location: {…}, …}
+// languages: (4) [{…}, {…}, {…}, {…}]
+// personal: {name: 'shivanand', label: 'mechanical Engineer', email: 'shivusangam17@gmail.com', phone: '9964540033', location: {…}, …}
 // skills: [{…}]
-// work: [{…}]
-// [[Prototype]]: Object
+// [[Prototype]]: Object -->
